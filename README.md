@@ -1,0 +1,2 @@
+# ramnotification
+clear ram
